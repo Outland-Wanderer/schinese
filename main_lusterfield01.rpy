@@ -280,7 +280,7 @@ translate schinese strings:
     old "Ask for his opinion on Goat Tribe"
     new "询问对山羊部落的看法"
 
-    old "Ask about Lusterfield"
+    old "Ask about Lusterfield{#SebAAL}"
     new "询问乐斯民菲尔德的事情"
 
     old "Ask about the shop"
@@ -3555,6 +3555,9 @@ translate schinese strings:
 
     old "Ask about the Shop"
     new "询问当铺的事情"
+
+    old "Ask about Lusterfield{#OleAAL}"
+    new "询问乐斯民菲尔德的事情"
 
 translate schinese Ole_Ask_Lusterfield_d9433aa5:
 
@@ -7335,7 +7338,7 @@ translate schinese Rahim_Dialogue_8adbd44e:
 translate schinese Rahim_Dialogue_e1065ae8:
 
     # e "Uhh- I'll try...{size=15} if only you aren't looking that hot... {/size}"
-    e "呃——我会努力的……{size=15}前提是你别那么性感……{/size}"
+    e "呃——我会努力的……{size=-16}前提是你别那么性感……{/size}"
 
 translate schinese Rahim_Dialogue_19fcb7b1:
 
@@ -7496,6 +7499,9 @@ translate schinese strings:
 
     old "Deliver the Letter from Furkan"
     new "递出弗坎的信件"
+
+    old "Ask about Lusterfield{#RahimAAL}"
+    new "询问乐斯民菲尔德的事情"
 
     old "Ask about his Tailor job"
     new "好奇裁缝的工作"

@@ -21,8 +21,8 @@ translate schinese strings:
     old "{color=#000}Winning in Goat Battle{/color}"
     new "{color=#000}战胜山羊猎人{/color}"
 
-    # old "{color=#000}Losing in Buggbear Battle{/color}"
-    # new "{color=#000}战败熊地精{/color}"
+    old "{color=#000}Losing in Buggbear Battle{/color}"
+    new "{color=#000}战败熊地精{/color}"
 
     # old "{color=#000}Winning in Buggbear Battle{/color}"
     # new "{color=#000}战胜熊地精{/color}"
@@ -79,4 +79,16 @@ translate schinese strings:
     # new ""
 
     # old "{color=#000}Losing to Hefty/Malignant Slime{/color}"
+    # new ""
+
+    # old "{color=#000}Losing in Nosferat Battle{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Bandit Boss{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Malignant/Hefty Slime with 70 Purity{/color}"
     # new ""
