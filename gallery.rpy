@@ -36,8 +36,8 @@ translate schinese strings:
     # old "{color=#000}Serving in Private Show 3{/color}"
     # new "{color=#000}私人服务C{/color}"
 
-    # old "{color=#000}Groping Lothar after Sparring{/color}"
-    # new "{color=#000}与洛萨尔对练后的摸摸{/color}"
+    old "{color=#000}Groping Lothar after Sparring{/color}"
+    new "{color=#000}玩弄洛萨尔的胸肌{/color}"
 
     # old "{color=#000}Losing in Minotaur Battle{/color}"
     # new "{color=#000}战败弥诺陶洛斯{/color}"
@@ -45,8 +45,8 @@ translate schinese strings:
     # old "{color=#000}Winning in Minotaur Battle{/color}"
     # new "{color=#000}战胜弥诺陶洛斯{/color}"
 
-    # old "{color=#000}Losing in Mimic Battle{/color}"
-    # new "{color=#000}战败宝箱怪{/color}"
+    old "{color=#000}Losing in Mimic Battle{/color}"
+    new "{color=#000}战败宝箱怪{/color}"
 
     # old "{color=#000}Snooping on Sebas and Cane{/color}"
     # new "{color=#000}偷看塞巴斯和凯恩的春宵{/color}"
