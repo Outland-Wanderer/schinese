@@ -920,10 +920,15 @@ translate schinese Bandit_Den_End_f397e375:
     # k "Alright, he's alive. Furk."
     k "太好了，你还活着。"
 
-translate schinese Bandit_Den_End_3adfe0b8:
+translate schinese Bandit_Den_End_46661de9:
 
-    # "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
-    "卡里立刻为弗坎施展治疗魔法……不一会，弗坎睁开了眼睛……"
+    # "Kari performs healing magic to the unconscious ram."
+    "卡里立刻为昏迷的弗坎施展治疗魔法。"
+
+translate schinese Bandit_Den_End_9a2b7cf9:
+
+    # "Furkan's eyes flutter open, as an anticipated deer watches in relief."
+    "不一会，身下人睁开了眼睛，卡里忧心忡忡的面容总算舒展开来。"
 
 translate schinese Bandit_Den_End_3ec57d49:
 
@@ -940,25 +945,35 @@ translate schinese Bandit_Den_End_02545655:
     # f "...W-where am I?"
     f "……这是哪？"
 
-translate schinese Bandit_Den_End_794797c2:
+translate schinese Bandit_Den_End_00f52772:
 
-    # k "Furk, you scared me to death... Are you feeling better now?"
-    k "我快被你吓死了……现在感觉好点了吗？"
+    # "Kari hugs the chief tightly, he positions himself on top of Furkan, feeling all his warmth as you watch from a distance."
+    "卡里张开双臂将兄长抱入怀中，感受他的体温，确信他真的活着。"
+
+translate schinese Bandit_Den_End_068112a1:
+
+    # k "Furk, you almost scared me to death. I thought you were gone."
+    k "吓死了，还以为我来迟一步。"
 
 translate schinese Bandit_Den_End_b7cc3345:
 
     # f "Uhm... the cave... I came here looking for the golem did I not?"
     f "我没事……我记得我来找符石护卫……"
 
+translate schinese Bandit_Den_End_723c6101:
+
+    # "Kari nods."
+    "卡里点头。"
+
 translate schinese Bandit_Den_End_48014797:
 
     # e "Hey, Furkan."
-    e "嘿，弗坎。"
+    e "嗨，弗坎。"
 
-translate schinese Bandit_Den_End_b68c09ac:
+translate schinese Bandit_Den_End_7c5afb1c:
 
-    # f "The courier? Why are you here..."
-    f "乐村的邮差？你怎么在这……"
+    # f "The courier? Why are you here."
+    f "乐村的邮差？你怎么在这。"
 
 translate schinese Bandit_Den_End_e5aaaaa3:
 
@@ -970,10 +985,25 @@ translate schinese Bandit_Den_End_f4847294:
     # e "Did you pass out after the guardian attacked you?"
     e "是符石护卫把你打晕的吗？"
 
-translate schinese Bandit_Den_End_90f09731:
+translate schinese Bandit_Den_End_ae4b54e1:
 
-    # f "No... it was someone else... the guardian was protecting me."
-    f "不……是别人……纳伊姆当时在保护我。"
+    # f "No, it was someone else... the guardian was protecting me."
+    f "不，是别人……纳伊姆当时在保护我。"
+
+translate schinese Bandit_Den_End_3bea46d2:
+
+    # k "Please tell me who attacked you, Furkan. I will take my own revenge on them."
+    k "谁？谁要害你？他们死定了。"
+
+translate schinese Bandit_Den_End_000b35c8:
+
+    # f "They hit me from the back, I have no idea."
+    f "他们从我身后偷袭，我没看见他们的模样。"
+
+translate schinese Bandit_Den_End_d4a36c19:
+
+    # "Kari looks disappointed, it seems he cares about the chief a lot by the way he's still hugging him."
+    "卡里顿时又变得愁眉苦脸。他没有松开怀抱，能看出他真的非常关心弗坎。"
 
 translate schinese Bandit_Den_End_4312d7b7:
 
@@ -990,6 +1020,11 @@ translate schinese Bandit_Den_End_6a9d299d:
     # k "Father's basin?"
     k "父亲的法盅？"
 
+translate schinese Bandit_Den_End_32a6dc7b:
+
+    # "The general pulls away, looking at Furkan with concern."
+    "卡里撑开与弗坎的距离，难以置信地看着对方。"
+
 translate schinese Bandit_Den_End_1b47d087:
 
     # k "Oh... No."
@@ -1000,45 +1035,30 @@ translate schinese Bandit_Den_End_ead24320:
     # e "W-what's it?"
     e "法盅？"
 
-translate schinese Bandit_Den_End_4fcab62c:
+translate schinese Bandit_Den_End_07929565:
 
-    # k "We used it to summon our guardians... or what you called golem."
-    k "可以用来召唤巨石护卫……也就是你说的石魔像的法器。"
-
-translate schinese Bandit_Den_End_1c9f8db5:
-
-    # k "Uhm Furk... did you see the attacker?"
-    k "呃弗坎……你还认得袭击者的样子吗？"
-
-translate schinese Bandit_Den_End_dabf44c8:
-
-    # f "No."
-    f "认不得了……"
+    # k "We used it to summon our guardians, or what you called golem."
+    k "可以用来召唤巨石护卫，也就是你说的石魔像的法器。"
 
 translate schinese Bandit_Den_End_b34597c1:
 
     # f "Is the guardian doing well?"
     f "纳伊姆，纳伊姆呢？"
 
-translate schinese Bandit_Den_End_2bbf79e9:
+translate schinese Bandit_Den_End_001113cc:
 
-    # k "Courier used the crystal on him..."
-    k "他没事，[e]用水晶治好了他……"
+    # k "Courier used a rock on him, I saw it."
+    k "他没事，[e]用水晶治好了他。"
 
-translate schinese Bandit_Den_End_5ec9462d:
+translate schinese Bandit_Den_End_93902d70:
 
-    # f "Hmm... the crystal I was looking for?"
-    f "噢……你找到了我在找的那块水晶。"
+    # "You nods slightly as the chief gives you an approving smile."
+    "你不太敢肯定，只是微微点了下头。"
 
-translate schinese Bandit_Den_End_51667721:
+translate schinese Bandit_Den_End_46a16c41:
 
-    # e "You were coming for the crystal?"
-    e "原来你是来找水晶的？"
-
-translate schinese Bandit_Den_End_32fb7925:
-
-    # f "This place used to be the secret foundry... We had the crystal buried here somewhere."
-    f "这个山洞曾经是一处秘密铸造厂……那块水晶就是我们族人埋起来的。"
+    # "But the smile fades away quickly as he looks back at Kari."
+    "弗坎对你露出满意的笑容，但这个笑容转瞬即逝。他很快又看向卡里。"
 
 translate schinese Bandit_Den_End_5363b379:
 
@@ -1070,64 +1090,99 @@ translate schinese Bandit_Den_End_98e8204b:
     # k "We killed it. We thought he went rogue on you and he started attacking us."
     k "我们以为是他害了你，再加上他主动攻击我们，所以我们不得已杀了他。"
 
-translate schinese Bandit_Den_End_6b70fcfd:
+translate schinese Bandit_Den_End_f273e2bb:
 
-    # e "Uhmm..."
-    e "唔嗯……"
+    # f "Alright."
+    f "哎，好吧。"
 
-translate schinese Bandit_Den_End_e2474748:
+translate schinese Bandit_Den_End_fa11c99b:
 
-    # f "Alright. I was actually coming for something here..."
-    f "这样啊。其实我来这里，就是为了找到能让符石护卫恢复正常的东西……"
+    # "Furkan sighs, he looks down, eyes almost teary."
+    "弗坎眼睛突然湿润起来，他低下头握住卡里的手，没有再说话。"
 
-translate schinese Bandit_Den_End_3687d8f5:
+translate schinese Bandit_Den_End_a083357a:
 
-    # f "Something resembling a crystal to return the golem to its normal state."
-    pass
+    # "He doesn't speak, instead, he grasps on Kari's hand. The general doesn't seem to flich away."
+    "卡里也握紧了对方的手。"
 
-translate schinese Bandit_Den_End_6895d577:
+translate schinese Bandit_Den_End_ab4dee2a:
 
-    # k "We... didn't see anything here..."
-    k "我们来的路上……好像没有发现什么特别的……"
+    # "Both of them are just mourning, in their own way."
+    "你猜他们正以他们的方式缅怀。"
 
-translate schinese Bandit_Den_End_9989e40d:
+translate schinese Bandit_Den_End_f2da58de:
 
-    # f "It is no longer required now, considering the status of the golem..."
-    f "事已至此……就让他安息吧……"
+    # f "So, all of what I did was for nothing."
+    f "到头来，我什么都没办成。"
+
+translate schinese Bandit_Den_End_87555c13:
+
+    # f "Guardian died, basin got stolen."
+    f "反而白白牺牲了部族的战士，失去了祖先的遗珍。"
+
+translate schinese Bandit_Den_End_db3cd737:
+
+    # e "W-what's the basin actually?"
+    e "法盅究竟是什么东西呢？"
+
+translate schinese Bandit_Den_End_f2575d7f:
+
+    # f "It was what my father used to summon guardians, with the help of the runes."
+    f "那是我父亲曾经用来结合符石召唤石像的法器。"
+
+translate schinese Bandit_Den_End_095e395f:
+
+    # f "In return, the guardians protect the runes."
+    f "作为生的回报，石像便会成为守护符石的护卫。"
+
+translate schinese Bandit_Den_End_cd0075c1:
+
+    # f "And now I lost both of them."
+    f "如今我却让两个护卫都牺牲了。"
+
+translate schinese Bandit_Den_End_c3ed46ef:
+
+    # "Kari rubs his paws on Furkan's wound, tending to it carefully."
+    "卡里摩挲着弗坎身上的伤口，小心翼翼地为他处理。"
+
+translate schinese Bandit_Den_End_a534077e:
+
+    # e "I'm really sorry to hear, but we'll try to get them back when you recover."
+    e "节哀顺变。等你养好伤，我们可以一起把法盅夺回来复活他们。"
 
 translate schinese Bandit_Den_End_cebe6de1:
 
     # f "Thanks, both of you. I need to get back to the tribe now."
-    f "谢谢你们为了救我冒这么大的险。只是村里还有很多事情等着我处理，我得赶快回去——嘶……"
+    f "[e]，谢谢你为了救我冒这么大的险。还有你，卡里。"
 
 translate schinese Bandit_Den_End_8c3907b5:
 
     # f "Hmm..."
-    pass
+    f "只是村里还有很多事情等着我处理，我得赶快回去——嘶……"
 
 translate schinese Bandit_Den_End_486f5a9b:
 
     # "Furkan stumbles forward when he tries to stand up, you see Kari intuitively lifts him back up."
-    "弗坎摇摇晃晃地试着站起来，突然一个没站稳往前倒去，卡里立马上前让他靠在自己身上。"
+    "弗坎摇摇晃晃地试着站起来，突然一个没站稳往前倒去。卡里立马上前让他靠在自己身上。"
 
 translate schinese Bandit_Den_End_6cd031f3:
 
     # f "Kari?"
-    f "卡里？"
+    f "我……"
 
 translate schinese Bandit_Den_End_6d3d914b:
 
     # k "Yeah... Let's go."
-    k "没事……我们走吧。"
+    k "没事，我们走吧。"
 
 translate schinese Bandit_Den_End_e73388e9:
 
     # e "Oh... you guys... are going?"
     e "噢……你们……要回去了？"
 
-translate schinese Bandit_Den_End_04ce795f:
+translate schinese Bandit_Den_End_a944e8ba:
 
-    # "Kari carries the furkan's weakened body on his back. The two men grunts a little before walking."
+    # "Kari carries the furkan's exhausted body on his back. The two men grunts a little before walking."
     "卡里背起虚弱的弗坎准备离开山洞，还互相说了几句悄悄话。"
 
 translate schinese Bandit_Den_End_6409673d:
@@ -1138,17 +1193,22 @@ translate schinese Bandit_Den_End_6409673d:
 translate schinese Bandit_Den_End_b213370a:
 
     # k "Here's some recipe that you might want to take a look."
-    k "我这有份铁剑和铁斧的制作方法，你应该用得上，拿去吧。"
+    k "我这有份铁剑和铁斧的锻造方法，你应该用得上，拿去吧。"
 
 translate schinese Bandit_Den_End_44668cc5:
 
     # k "It's iron sword and axe."
     pass
 
-translate schinese Bandit_Den_End_ca6dd60e:
+translate schinese Bandit_Den_End_a3ae056d:
 
-    # e "Thanks a lot, Kari."
+    # e "Thanks, general."
     e "非常感谢。"
+
+translate schinese Bandit_Den_End_84fcf348:
+
+    # "He hands you the paper, before tugging the chieftain upwards with his hands on his ass."
+    "他将一张清单递给你，而后双手包住弗坎的屁股往上掂了掂，稳住自己和对方的姿势。"
 
 translate schinese Bandit_Den_End_127daacc:
 
@@ -1165,41 +1225,61 @@ translate schinese Bandit_Den_End_ce1cdeaf:
     # e "See you..."
     e "再见……"
 
+translate schinese Bandit_Den_End_e0df77ea:
+
+    # "Kari turns away from you, and begin walking towards the exit."
+    "你目送他们二人朝洞口外离去。"
+
 translate schinese Bandit_Den_End_4c3c3c00:
 
     # k "{size=20}Furk, since when did you get this heavy.{/size}"
     k "{size=-8}哥，你什么时候变这么重了。{/size}"
+
+translate schinese Bandit_Den_End_2b1a552a:
+
+    # "They whispers, but the echo in the cave makes it clear even from afar."
+    "他们故意压低声音，但在幽闭的洞穴里回声自然躲不过你的耳朵。"
 
 translate schinese Bandit_Den_End_b055cfae:
 
     # f "{size=20}Uhmm... Heavier if I fall asleep on your shoulder...{/size}"
     f "{size=-8}哼哼……要是我待会睡着了会更重……{/size}"
 
-translate schinese Bandit_Den_End_b63be10c:
+translate schinese Bandit_Den_End_747772b0:
 
-    # "Kari and Furkan leaves you outside the cave..."
-    "你目送二人离开，脑海里开始回忆起这趟旅程。"
+    # "Kari and Furkan leaves you outside the cave."
+    "他们的身影逐渐融入洞外日光消失不见，你开始回忆这趟旅程。"
 
 translate schinese Bandit_Den_End_ed08a457:
 
     # e "Fuck, Furkan? Are you awake?"
     e "嘿，弗坎！你醒醒！"
 
-translate schinese Bandit_Den_End_559a4f55:
+translate schinese Bandit_Den_End_ad844077:
 
-    # "The Ram doesn't speak, in fact he still hasn't wake. You decide to presses on his chest for a few moment."
-    "羊族族长没有回应你，他甚至没有一点动静。你赶忙将手掌盖上他胸口感受他的心跳。"
+    # "The Ram is completely passed out, you decide to presses on his chest for a few moment."
+    "面前这头山羊已经不省人事，你赶忙将手放在他胸口感受心跳。"
 
-translate schinese Bandit_Den_End_f685f4b4:
+translate schinese Bandit_Den_End_81fffab3:
 
-    # "You casts a weak healing magic to him."
-    "他还活着。"
+    # "With no avail, you lean your head against his chest, luckily his heart is still beating, albeit weakly."
+    "感觉不到搏动传来，你便俯下身侧头贴住他的胸口去听。"
+    "万幸，他还活着，只是心跳非常虚弱。"
+
+translate schinese Bandit_Den_End_282a297e:
+
+    # "You cast a weak healing magic on him."
     "你立即向他施展治疗术，但你知道自己的法术不一定顶用。"
 
 translate schinese Bandit_Den_End_3ec57d49_1:
 
     # f "..."
     f "……"
+
+translate schinese Bandit_Den_End_fca3c10c:
+
+    # "The chief's eyes flutter open. He looks stressful, and his pupils dilate."
+    "羊族族长慢慢睁开双眼，神情涣散。"
 
 translate schinese Bandit_Den_End_4e056dcb:
 
@@ -1209,7 +1289,12 @@ translate schinese Bandit_Den_End_4e056dcb:
 translate schinese Bandit_Den_End_2f3870eb:
 
     # e "Hey, Furkan. Are you alright?"
-    e "嗨，弗坎。你有哪里受伤吗？"
+    e "嗨，弗坎。你现在感觉怎么样？"
+
+translate schinese Bandit_Den_End_bcda30d6:
+
+    # "He turns his attention to you."
+    "他的眼神突然变得犀利起来。"
 
 translate schinese Bandit_Den_End_d06b9227:
 
@@ -1226,25 +1311,50 @@ translate schinese Bandit_Den_End_f0e70fe2:
     # e "He's resting in the tribe now."
     e "他还在村里修养。"
 
+translate schinese Bandit_Den_End_a3e1f029:
+
+    # "You try to give him a hand as he shifts his position to you, but he doesn't take it."
+    "见弗坎想要起身你伸手去扶，但他却马上躲开了。"
+
 translate schinese Bandit_Den_End_9f93daa8:
 
     # f "W-what happened."
-    f "怎么回事？"
+    f "这到底怎么回事？"
 
-translate schinese Bandit_Den_End_c584b9e9:
+translate schinese Bandit_Den_End_713df877:
 
-    # e "He fought me, but I defeated him."
-    e "我和他打了一架……"
+    # e "He fought me as I entered your tribe, I defeated him at the end."
+    e "我进村的时候你的将军拦住我，他以为我绑架了你，所以想要从我这逼问出你的下落。"
+
+translate schinese Bandit_Den_End_c492b7b4:
+
+    # e "I didn't intend to, just trying to protect myself. He thought I kidnapped you."
+    e "所以，没办法，我得保护自己。"
+
+translate schinese Bandit_Den_End_b329270f:
+
+    # e "Afterwards he told me you might be here..."
+    e "再之后他告诉我你可能去了这个山洞……"
+
+translate schinese Bandit_Den_End_bbdc0855:
+
+    # "Furkan stares forwards, seemingly pondering something you're not aware of."
+    "弗坎呆呆盯着前方，似乎在思考什么你不知道的事情。"
 
 translate schinese Bandit_Den_End_a9d62d89:
 
     # e "Uhm... Furkan... did you pass out after the guardian attacked you?"
     e "呃……弗坎……你是被这个石魔像打晕了吗？"
 
-translate schinese Bandit_Den_End_90f09731_1:
+translate schinese Bandit_Den_End_90f09731:
 
     # f "No... it was someone else... the guardian was protecting me."
-    f "不……是别人……符石护卫在保护我。"
+    f "不……是别人……符石护卫保护了我。"
+
+translate schinese Bandit_Den_End_9168b5c7:
+
+    # "He looks around, distressed."
+    "弗坎环顾四周，面容突然紧绷。"
 
 translate schinese Bandit_Den_End_4312d7b7_1:
 
@@ -1276,15 +1386,40 @@ translate schinese Bandit_Den_End_1dd4c735:
     # f "Fuck! Why am I so useless."
     f "该死！我怎么这么没用。"
 
-translate schinese Bandit_Den_End_1c94ba84:
+translate schinese Bandit_Den_End_a2ff6800:
 
-    # f "They stole the basin from me..."
-    f "他们偷走了法盅……"
+    # f "They stole the basin from me. The thieves."
+    f "那些盗贼，他们偷走了法盅。"
 
-translate schinese Bandit_Den_End_fa86efde:
+translate schinese Bandit_Den_End_2c5adaba:
 
-    # e "It's ok, Furkan. We can get it back later..."
-    e "别担心，弗坎。我们一定会找回法盅的……"
+    # e "Who took it? I didn't see anyone else here in the cave."
+    e "盗贼？我进来的时候没看到有别人。"
+
+translate schinese Bandit_Den_End_6fea8302:
+
+    # f "They're probably gone, I did not get to catch a glimpse but I sensed someone was there."
+    f "应该早逃走了。当时我就感觉到山洞里有其他人。"
+
+translate schinese Bandit_Den_End_560a4f40:
+
+    # f "...Right before I was ambushed from behind."
+    f "……他们从背后偷袭了我，我没能看见他们的样子。"
+
+translate schinese Bandit_Den_End_33656c76:
+
+    # e "It's ok, Furkan. We can get it back later. You should focus on recovering first."
+    e "别担心，弗坎。我们一定会找回法盅的。现在最要紧的是疗伤。"
+
+translate schinese Bandit_Den_End_a13c0780:
+
+    # "You lend your hand again towards Furkan, this time he reluctantly accepts it."
+    "你再次伸手想扶他起来，这次他勉为其难地接受了。"
+
+translate schinese Bandit_Den_End_39000206:
+
+    # "With your assistance, Furkan turns against a huge rock to lean on."
+    "有你的帮助，弗坎得以背靠石墙坐下。"
 
 translate schinese Bandit_Den_End_b34597c1_1:
 
@@ -1296,35 +1431,45 @@ translate schinese Bandit_Den_End_8d754181:
     # e "Yes, the stone was healing him quite a bit."
     e "他没事，我往他胸口放了块石头他就活过来了。"
 
-translate schinese Bandit_Den_End_cf0f92ea:
+translate schinese Bandit_Den_End_0e8db784:
 
-    # f "Wait... you found the slab?"
-    f "这么说……你找到了那块水晶？"
+    # f "What stone?"
+    f "什么石头？"
 
-translate schinese Bandit_Den_End_87b4652b:
+translate schinese Bandit_Den_End_9520fe9c:
 
-    # e "W-what slab?"
-    e "什么水晶？"
+    # "You show him the rock you found at the lake, apparently it's been soaked in magical energy enough to heal a golem."
+    "你拿出在池塘旁边发现的石头。看来长期浸染饱含魔力的池水使它储蓄了充足的能量，因而能够治疗石像。"
 
-translate schinese Bandit_Den_End_34def928:
+translate schinese Bandit_Den_End_051170e6:
 
-    # f "This place used to be the secret foundry... We had the slab buried here somewhere."
-    f "能让符石护卫恢复正常的水晶。这个山洞曾经是一处秘密铸造厂……那块水晶就是我们族人埋起来的。"
+    # f "Thank god."
+    f "谢天谢地。"
 
-translate schinese Bandit_Den_End_5363b379_1:
+translate schinese Bandit_Den_End_2ff7bb12:
 
-    # f "It was stupid of me to come here alone. I did not intend for anyone to follow me."
-    f "哎，我竟然傻到一个人来这么隐秘的地方，被其他人跟踪了都不知道。"
+    # "Furkan sighs, he is looking at the guardian, panting."
+    "弗坎长舒一口气，却转而望着石像哀叹。"
+
+translate schinese Bandit_Den_End_85b84d75:
+
+    # f "It was stupid of me to come here alone. I know the guardian is here."
+    f "哎，我竟然傻到一个人来这么隐秘的地方，正好遂了那群盗贼的愿。"
+
+translate schinese Bandit_Den_End_d3d886a4:
+
+    # "He looks down, hands over his face."
+    "他垂头掩面，看起来十分懊悔。"
 
 translate schinese Bandit_Den_End_deb4c568_1:
 
     # f "But that made the perfect opportunity for an ambush."
-    f "真是活该……"
+    f "就算有符石护卫也防不住阴招。"
 
 translate schinese Bandit_Den_End_da4677b2:
 
     # f "How silly am I..."
-    pass
+    f "我真是活该……"
 
 translate schinese Bandit_Den_End_6e1fdc41:
 
@@ -1339,27 +1484,72 @@ translate schinese Bandit_Den_End_68914fef_1:
 translate schinese Bandit_Den_End_8fbbec14:
 
     # e "He attacked me... So I killed it."
-    e "他主动攻击了我……所以我杀了他。"
+    e "他主动攻击我……所以我杀了他。"
 
-translate schinese Bandit_Den_End_f273e2bb:
+translate schinese Bandit_Den_End_f273e2bb_1:
 
     # f "Alright."
-    f "嗯……"
+    f "哎……"
+
+translate schinese Bandit_Den_End_fa11c99b_1:
+
+    # "Furkan sighs, he looks down, eyes almost teary."
+    "弗坎垂头，眼角闪烁着泪光。"
+
+translate schinese Bandit_Den_End_f2da58de_1:
+
+    # f "So, all of what I did was for nothing."
+    f "到头来，我什么都没办成。"
+
+translate schinese Bandit_Den_End_87555c13_1:
+
+    # f "Guardian died, basin got stolen."
+    f "反而白白牺牲了部族的战士，失去了祖先的遗珍。"
+
+translate schinese Bandit_Den_End_db3cd737_1:
+
+    # e "W-what's the basin actually?"
+    e "法盅究竟是什么东西呢？"
+
+translate schinese Bandit_Den_End_f2575d7f_1:
+
+    # f "It was what my father used to summon guardians, with the help of the runes."
+    f "那是我父亲曾经用来结合符石召唤石像的法器。"
+
+translate schinese Bandit_Den_End_095e395f_1:
+
+    # f "In return, the guardians protect the runes."
+    f "作为生的回报，石像便会成为守护符石的护卫。"
+
+translate schinese Bandit_Den_End_cd0075c1_1:
+
+    # f "And now I lost both of them."
+    f "如今我却让两个护卫都牺牲了。"
+
+translate schinese Bandit_Den_End_534602b9:
+
+    # "He turns away, ears droop low."
+    "弗坎撇过头，双耳耷拉。"
+
+translate schinese Bandit_Den_End_a534077e_1:
+
+    # e "I'm really sorry to hear, but we'll try to get them back when you recover."
+    e "节哀顺变。等你养好伤，我们可以一起把法盅夺回来复活他们。"
 
 translate schinese Bandit_Den_End_0623b8b8:
 
     # f "Thanks, Courier. I need to get back to the tribe now."
-    f "谢谢你，[e]。我得赶快回去处理——嘶……"
+    f "谢谢你，[e]。现在我得赶快回去处理——嘶……"
 
 translate schinese Bandit_Den_End_8c3907b5_1:
 
     # f "Hmm..."
     pass
 
-translate schinese Bandit_Den_End_b6130c4d:
+translate schinese Bandit_Den_End_5685146e:
 
-    # "Furkan stumbles forward when he tries to stand up."
-    "弗坎摇摇晃晃地试着站起来，显然没法自己走回去。"
+    # "Furkan stumbles forward when he tries to stand up. He lands on the floor again with a loud thump."
+    "弗坎摇摇晃晃地试着站起来，却重重地摔回原地，显然没法自己走回去。"
 
 translate schinese Bandit_Den_End_3ec57d49_2:
 
@@ -1379,17 +1569,42 @@ translate schinese Bandit_Den_End_6d9927f9:
 translate schinese Bandit_Den_End_ec3f1531:
 
     # f "No need. You've been a great help already. I just need the guards to take me back."
-    f "你已经帮了我们大忙，再麻烦你太不好意思了。就让我的人来接我吧。"
+    f "你已经帮了我们大忙，再麻烦你太不好意思。就让我的人来接我吧。"
 
 translate schinese Bandit_Den_End_9d2f2d12:
 
     # e "Alright."
-    e "好的，没问题。"
+    e "好，没问题。"
+
+translate schinese Bandit_Den_End_bbec41a3:
+
+    # e "What about the guardian?"
+    e "这尊符石护卫要怎么办呢？"
+
+translate schinese Bandit_Den_End_85ee5c06:
+
+    # f "I suppose we will carry it back."
+    f "我们应该会带他回村先关起来。"
+
+translate schinese Bandit_Den_End_1d3e7715:
+
+    # f "Not sure if he will still go rogue, so we will put him in captivity."
+    f "毕竟他已经没有要守护的东西了，不知道他会不会再次失控。"
+
+translate schinese Bandit_Den_End_41569b97:
+
+    # f "There is just nothing left for it to protect."
+    pass
+
+translate schinese Bandit_Den_End_6619e846:
+
+    # "Furkan takes another pause."
+    "弗坎一时语塞。"
 
 translate schinese Bandit_Den_End_049ac92c:
 
     # f "You can leave me here now... Thank you again, Courier."
-    f "你去吧……我没事了。谢谢，[e]。"
+    f "你去吧……我没事的。谢谢，[e]。"
 
 translate schinese Bandit_Den_End_a20cefa7:
 
@@ -1424,27 +1639,47 @@ translate schinese Bandit_Den_End_cd737672:
 translate schinese Bandit_Den_End_23e939ae:
 
     # "Though..."
-    "可是你要醒来吗……"
+    "可你一定要醒来吗……"
+
+translate schinese Bandit_Den_End_4322f566:
+
+    # "What's even wrong with indulging yourself in this, nightmare?"
+    pass
 
 translate schinese Bandit_Den_End_52f8d5eb:
 
     # "You've never been in charge for the longest of your life."
-    "曾经你在家乡只是按部就班、平淡无奇地活着。"
+    "曾经你在家乡只是按部就班、平淡无奇地活着。如今你甚至已经记不起你的曾经，除了齐门。"
 
 translate schinese Bandit_Den_End_c4aaf428:
 
     # "The world you lived in, in the tribe. It was... bland, unfruitful."
     "而在这个世界，你第一次感受到把握自己人生的感觉。"
 
+translate schinese Bandit_Den_End_5033d6bd:
+
+    # "You don't even remember any other person there, except for Chime."
+    pass
+
 translate schinese Bandit_Den_End_86e9aeda:
 
     # "But here you feel like you are doing something. You have the power to change something, for better or worse."
     "你能为自己、为人们、为这个世界带来实实在在的改变，无论结果是好是坏。"
 
-translate schinese Bandit_Den_End_36304dbd:
+translate schinese Bandit_Den_End_d9da896d:
 
-    # "Still, your friend, Chime is somewhere lost in this world."
-    "但别忘了，你的好朋友齐门还不知去向、生死未卜。"
+    # "Here, you feel powerful, you feel as if there's a flame inside you, waiting to rekindle."
+    "此刻你感觉意气风发，心里好像有股气焰等着被重新点燃。"
+
+translate schinese Bandit_Den_End_742ea64e:
+
+    # "You don't ever want to leave behind the friends you've made, if you ever found an exit."
+    "就算你成功找到回家的路，你也绝不会抛下你在这个世界结交的朋友。"
+
+translate schinese Bandit_Den_End_ab597d55:
+
+    # "Still, Chime is out there, alone, and you can't let that continue for long."
+    "但别忘了，齐门还不知去向、生死未卜。"
 
 translate schinese Bandit_Den_End_65d2e163:
 
@@ -1459,11 +1694,11 @@ translate schinese Bandit_Den_End_a20cefa7_1:
 translate schinese Bandit_Den_End_ecc36c43:
 
     # "Quickly... you put all unnecessary thought in the back of your head."
-    "空想无用，你决定抛开多余的想法，继续踏上这充满未知的旅程。"
+    "空想无用，你决定抛开多余的想法，继续踏上在这个世界的旅程。"
 
-translate schinese Bandit_Den_End_bcfe3af7:
+translate schinese Bandit_Den_End_d8ce2a99:
 
-    # "You continues on your journey."
+    # "And you continue on your journey in this world."
     pass
 
 translate schinese runeguardian_lose_85fa647a:
@@ -1591,387 +1826,392 @@ translate schinese runeguardian_lose_4ba96869:
     # "You lost [gold_lost] gold."
     "你失去了 [gold_lost] 枚金币。"
 
-# translate schinese minostatue_battle_e42b0c88:
+translate schinese minostatue_battle_e42b0c88:
 
-#     # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist."
-#     ""
+    # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist."
+    "你握紧拳头紧盯石雕，感觉这场战斗并不寻常。"
 
-# translate schinese minostatue_battle_7a41cd1f:
+translate schinese minostatue_battle_7a41cd1f:
 
-#     # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist instead of your [pc.weapon.name!t]."
-#     ""
+    # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist instead of your [pc.weapon.name!t]."
+    "你紧盯石雕，感觉这场战斗并不寻常。于是你选择收起武器，摆出格斗姿势。"
 
-# translate schinese minostatue_battle_loop_415443c8:
+translate schinese minostatue_battle_loop_415443c8:
 
-#     # "You throw your punch at the statue. Regardless of your strength, the statue's health dropped by 1."
-#     ""
+    # "You throw your punch at the statue. Regardless of your strength, the statue's health dropped by 1."
+    "你一拳捶向石雕，令它失去了 1 点体力。好像再大力也只能伤到它这么多。"
 
-# translate schinese minostatue_battle_loop_72486f84:
+translate schinese minostatue_battle_loop_72486f84:
 
-#     # "The statue seems to be unfazed by all your attempts at seduction..."
-#     ""
+    # "The statue seems to be unfazed by all your attempts at seduction..."
+    "石雕对你的搔首弄姿毫无反应……"
 
-# translate schinese minostatue_battle_loop_6bd76fe0:
+translate schinese minostatue_battle_loop_6bd76fe0:
 
-#     # "You cannot escape from the battle."
-#     ""
+    # "You cannot escape from the battle."
+    "石雕不会追着你，逃跑没有意义。"
 
-# translate schinese minostatue_battle_loop_e53087dd:
+translate schinese minostatue_battle_loop_e53087dd:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Statue."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Statue."
+    "你耗尽了所有气力，双膝一软跪倒在地。"
 
-# translate schinese minostatue_battle_loop_8273253b:
+translate schinese minostatue_battle_loop_8273253b:
 
-#     # "The statue casts a few pebbles onto you, each dealing [enemy_damage] HP."
-#     ""
+    # "The statue casts a few pebbles onto you, each dealing [enemy_damage] HP."
+    "石雕凭空变出几块碎石砸到你头上，每颗碎石都会令你失去 [enemy_damage] 点体力。"
 
-# translate schinese minostatue_battle_loop_6cd74592:
+translate schinese minostatue_battle_loop_6cd74592:
 
-#     # "Your health decreased by [ed] in total."
-#     ""
+    # "Your health decreased by [ed] in total."
+    "你总共失去了 [ed] 点体力。"
 
-# translate schinese minostatue_win_aafcefe4:
+translate schinese minostatue_win_aafcefe4:
 
-#     # "As you defeat the statue, it begins to glow in green in front of your eyes."
-#     ""
+    # "As you defeat the statue, it begins to glow in green in front of your eyes."
+    "石雕被打败后，身上逐渐显现出绿色斑纹。"
 
-# translate schinese minostatue_win_1f92bb3e:
+translate schinese minostatue_win_1f92bb3e:
 
-#     # "You feel that the gem flickered for a moment. You must have completed something..."
-#     ""
+    # "You feel that the gem flickered for a moment. You must have completed something..."
+    "远处石柱上的宝石好像闪了一下。你应该是打通了某个机关……"
 
-# translate schinese minostatue_win_9a89312e:
+translate schinese minostatue_win_9a89312e:
 
-#     # "You also found [gold_drop] gold and [exp_drop] EXP."
-#     ""
+    # "You also found [gold_drop] gold and [exp_drop] EXP."
+    "你还同时获得了 [gold_drop] 枚金币和 [exp_drop] 点经验。"
 
-# translate schinese minostatue_win_91f1d522:
+translate schinese minostatue_win_91f1d522:
 
-#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
-#     msg ""
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese minostatue_lose_bff43b3c:
+translate schinese minostatue_lose_bff43b3c:
 
-#     # "You lost to the statue. It seems to be unfazed still."
-#     ""
+    # "You lost to the statue. It seems to be unfazed still."
+    "你只得仰望纹丝未动的弥诺陶洛斯雕像，狼狈地起身退回远处。"
 
-# translate schinese minostatue_lose_d3da0aff:
+translate schinese minostatue_lose_d3da0aff:
 
-#     # "You return to your position."
-#     ""
+    # "You return to your position."
+    pass
 
-# translate schinese mino_battle_d488a282:
+translate schinese mino_battle_d488a282:
 
-#     # "The minotaur is standing before you, he looks enraged by your intrusion."
-#     ""
+    # "The minotaur is standing before you, he looks enraged by your intrusion."
+    "你的闯入激怒了弥诺陶洛斯。他裸露的鸡巴就垂在你面前……诗中“擎天大雕惹垂涎”果然不假。"
 
-# translate schinese mino_battle_d5e446e1:
+translate schinese mino_battle_d5e446e1:
 
-#     # "You can feel his... member dangling in front of you, that must be what the scripture described as hard, and majestic."
-#     ""
+    # "You can feel his... member dangling in front of you, that must be what the scripture described as hard, and majestic."
+    pass
 
-# translate schinese mino_battle_4300fbe8:
+translate schinese mino_battle_4300fbe8:
 
-#     # "You raise your [pc.weapon.name!t], defending yourself from the minotaur's attack."
-#     ""
+    # "You raise your [pc.weapon.name!t], defending yourself from the minotaur's attack."
+    "你手持[pc.weapon.name!t]，准备抵御接下来的攻击。"
 
-# translate schinese mino_battle_5a9a9a3b:
+translate schinese mino_battle_5a9a9a3b:
 
-#     # "You raise your fist, defending yourself from the minotaur's attack."
-#     ""
+    # "You raise your fist, defending yourself from the minotaur's attack."
+    "你交臂架好了格斗姿态，准备抵御接下来的攻击。"
 
-# translate schinese mino_battle_loop_522af612:
+translate schinese mino_battle_loop_522af612:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the minotaur, but he dodges the attack in time."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the minotaur, but he dodges the attack in time."
+    "你挥动[pc.weapon.name!t]划向弥诺陶洛斯的手臂，但他及时躲开了。"
 
-# translate schinese mino_battle_loop_cddd3861:
+translate schinese mino_battle_loop_cddd3861:
 
-#     # "You slam your [pc.weapon.name!t] at the minotaur's head, but he dodges the attack in time."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the minotaur's head, but he dodges the attack in time."
+    "你舞动[pc.weapon.name!t]劈向弥诺陶洛斯的脑袋，但他及时躲开了。"
 
-# translate schinese mino_battle_loop_f9c3b393:
+translate schinese mino_battle_loop_f9c3b393:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the minotaur, but it seems to have missed."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the minotaur, but it seems to have missed."
+    "你架设[pc.weapon.name!t]飞箭射向弥诺陶洛斯，可惜只差一点点就射中了。"
 
-# translate schinese mino_battle_loop_ef73b906:
+translate schinese mino_battle_loop_ef73b906:
 
-#     # "You throw your fist at the minotaur, but you punch into the air instead."
-#     ""
+    # "You throw your fist at the minotaur, but you punch into the air instead."
+    "你举拳奋力捶向弥诺陶洛斯，但你这一拳只打中了空气。"
 
-# translate schinese mino_battle_loop_b5605c07:
+translate schinese mino_battle_loop_b5605c07:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the minotaur, your blade scraps against his fur."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the minotaur, your blade scraps against his fur."
+    "你挥动[pc.weapon.name!t]划向对方手臂，剑刃刮过他的皮毛。"
 
-# translate schinese mino_battle_loop_a03754cb:
+translate schinese mino_battle_loop_a03754cb:
 
-#     # "The minotaur stomps on the ground, clearly protesting against your attack."
-#     ""
+    # "The minotaur stomps on the ground, clearly protesting against your attack."
+    "弥诺陶洛斯捶胸顿足，显然对受到的伤害十分不悦。"
 
-# translate schinese mino_battle_loop_f3e942f7:
+translate schinese mino_battle_loop_f3e942f7:
 
-#     # "You slash your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
-#     ""
+    # "You slash your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
+    "你攒动[pc.weapon.name!t]劈向对方身体，将他挡在几步开外。"
 
-# translate schinese mino_battle_loop_6c4c87d5:
+translate schinese mino_battle_loop_6c4c87d5:
 
-#     # "The minotaur grunts silently in anger."
-#     ""
+    # "The minotaur grunts silently in anger."
+    "弥诺陶洛斯发出愤怒的低吼。"
 
-# translate schinese mino_battle_loop_229b142c:
+translate schinese mino_battle_loop_229b142c:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the minotaur, the arrow hits right into his arm."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the minotaur, the arrow hits right into his arm."
+    "你找准时机拉动[pc.weapon.name!t]，飞箭正中对方的手臂。"
 
-# translate schinese mino_battle_loop_a03754cb_1:
+translate schinese mino_battle_loop_a03754cb_1:
 
-#     # "The minotaur stomps on the ground, clearly protesting against your attack."
-#     ""
+    # "The minotaur stomps on the ground, clearly protesting against your attack."
+    "弥诺陶洛斯捶胸顿足，显然对受到的伤害十分不悦。"
 
-# translate schinese mino_battle_loop_5acc2781:
+translate schinese mino_battle_loop_5acc2781:
 
-#     # "You run while shooting your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
-#     ""
+    # "You run while shooting your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
+    "你一边变换方位一边拉动[pc.weapon.name!t]飞箭射向对方身体，将他挡在几步开外。"
 
-# translate schinese mino_battle_loop_6c4c87d5_1:
+translate schinese mino_battle_loop_6c4c87d5_1:
 
-#     # "The minotaur grunts silently in anger."
-#     ""
+    # "The minotaur grunts silently in anger."
+    "弥诺陶洛斯发出愤怒的低吼。"
 
-# translate schinese mino_battle_loop_057bbe22:
+translate schinese mino_battle_loop_057bbe22:
 
-#     # "You throw your fist at the arm of the minotaur, your blade scraps against his fur."
-#     ""
+    # "You throw your fist at the arm of the minotaur, your blade scraps against his fur."
+    "你一拳挥向巨兽，正中脸部。"
 
-# translate schinese mino_battle_loop_a03754cb_2:
+translate schinese mino_battle_loop_a03754cb_2:
 
-#     # "The minotaur stomps on the ground, clearly protesting against your attack."
-#     ""
+    # "The minotaur stomps on the ground, clearly protesting against your attack."
+    "弥诺陶洛斯捶胸顿足，显然对受到的伤害十分不悦。"
 
-# translate schinese mino_battle_loop_be17f835:
+translate schinese mino_battle_loop_be17f835:
 
-#     # "You punch into the minotaur's stomach, knocking him back a few steps."
-#     ""
+    # "You punch into the minotaur's stomach, knocking him back a few steps."
+    "你勾拳猛击对手腹部，将他挡在几步开外。"
 
-# translate schinese mino_battle_loop_6c4c87d5_2:
+translate schinese mino_battle_loop_6c4c87d5_2:
 
-#     # "The minotaur grunts silently in anger."
-#     ""
+    # "The minotaur grunts silently in anger."
+    "弥诺陶洛斯发出愤怒的低吼。"
 
-# translate schinese mino_battle_loop_24bcc736:
+translate schinese mino_battle_loop_24bcc736:
 
-#     # "His health decreases by [oa[4]] HP."
-#     ""
+    # "His health decreases by [oa[4]] HP."
+    "对方的体力损失了 [oa[4]] 点。"
 
-# translate schinese mino_battle_loop_aafc665e:
+translate schinese mino_battle_loop_aafc665e:
 
-#     # "You've critically hit the minotaur, dealing [oa[4]] HP!"
-#     ""
+    # "You've critically hit the minotaur, dealing [oa[4]] HP!"
+    "暴击！对方失去了 [oa[4]] 点体力！"
 
-# translate schinese mino_battle_loop_241c58ed:
+translate schinese mino_battle_loop_241c58ed:
 
-#     # "You struggle against the arm of the minotaur, trying to break free. You dealt [oa[4]] damage to the minotaur in the process, his grip has loosen as well."
-#     ""
+    # "You struggle against the arm of the minotaur, trying to break free. You dealt [oa[4]] damage to the minotaur in the process, his grip has loosen as well."
+    "你极力挣扎摆脱巨兽的束缚，同时对他造成了 [oa[4]] 点伤害。他松开了手掌。"
 
-# translate schinese mino_battle_loop_c9974a20:
+translate schinese mino_battle_loop_c9974a20:
 
-#     # "You struggle against the minotaur as you try to reach under the minotaur's crotch, trying to get a reaction from the minotaur."
-#     ""
+    # "You struggle against the minotaur as you try to reach under the minotaur's crotch, trying to get a reaction from the minotaur."
+    "你一边挣扎一边伸手掏弄对方胯下，意图激起他的性趣。"
 
-# translate schinese mino_battle_loop_471bd576:
+translate schinese mino_battle_loop_471bd576:
 
-#     # "The minotaur instanly react with your advance, grunting profusely as his cock twitches. His grip is weakening as well."
-#     ""
+    # "The minotaur instanly react with your advance, grunting profusely as his cock twitches. His grip is weakening as well."
+    "如此大胆的举动令弥诺陶洛斯立马起了反应，他喘着粗气，鸡巴一翘一翘的。握力似乎减弱了几分。"
 
-# translate schinese mino_battle_loop_fdf9de27:
+translate schinese mino_battle_loop_fdf9de27:
 
-#     # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
-#     ""
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    "你慢腾腾背向弥诺陶洛斯，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-# translate schinese mino_battle_loop_b3fc0b8d:
+translate schinese mino_battle_loop_b3fc0b8d:
 
-#     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the Rune minotaur seductively."
-#     ""
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the Rune minotaur seductively."
+    "你深情地盯着弥诺陶洛斯，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-# translate schinese mino_battle_loop_20199561:
+translate schinese mino_battle_loop_20199561:
 
-#     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the Rune minotaur while your chest bounce up and down slightly."
-#     ""
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the Rune minotaur while your chest bounce up and down slightly."
+    "你双手捧持你鼓起的胸肌，手指在乳头周围画着圆圈。一边对着这个神话生物微笑，一边轻轻掂量自己的厚物。"
 
-# translate schinese mino_battle_loop_a37a7ed0:
+translate schinese mino_battle_loop_a37a7ed0:
 
-#     # "You approach to the minotaur closely, letting your hands wander inside the huge bush in his crotch area."
-#     ""
+    # "You approach to the minotaur closely, letting your hands wander inside the huge bush in his crotch area."
+    "接着你走近弥诺陶洛斯，伸手插入他胯下的耻毛轻轻揉搓。"
 
-# translate schinese mino_battle_loop_959a28a6:
+translate schinese mino_battle_loop_959a28a6:
 
-#     # "You continue your act for about a minute, but the minotaur doesn't even flinch."
-#     ""
+    # "You continue your act for about a minute, but the minotaur doesn't even flinch."
+    "这场戏你自导自演了快一分钟，但对方完全不为所动。"
 
-# translate schinese mino_battle_loop_f96ea304:
+translate schinese mino_battle_loop_f96ea304:
 
-#     # "Disappointed, you back away before the minotaur can grab a hold of you."
-#     ""
+    # "Disappointed, you back away before the minotaur can grab a hold of you."
+    "在这头猛兽抓住你之前，你失望地退回了原位。"
 
-# translate schinese mino_battle_loop_7af37212:
+translate schinese mino_battle_loop_7af37212:
 
-#     # "Within a few seconds you can already see some movements in his cock."
-#     ""
+    # "Within a few seconds you can already see some movements in his cock."
+    "不过几秒钟，弥诺陶洛斯的下体就有了些许动静。尽管他只是舔了舔嘴唇，什么也没说，他的性欲还是增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_eae9c4ee:
+translate schinese mino_battle_loop_eae9c4ee:
 
-#     # "The minotaur doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
-#     ""
+    # "The minotaur doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_05de855b:
+translate schinese mino_battle_loop_05de855b:
 
-#     # mn "...H...Hnnnnngh..."
-#     mn ""
+    # mn "...H...Hnnnnngh..."
+    mn "……哞……"
 
-# translate schinese mino_battle_loop_bcf9859c:
+translate schinese mino_battle_loop_bcf9859c:
 
-#     # "You notice the minotaur is floundering, trying his best not to get aroused by your seduction."
-#     ""
+    # "You notice the minotaur is floundering, trying his best not to get aroused by your seduction."
+    "弥诺陶洛斯极力抵御你的勾引，但他通红的脸颊和鼓胀的下体已经宣告了一切。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_31d7e065:
+translate schinese mino_battle_loop_31d7e065:
 
-#     # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
-#     ""
+    # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_e593565c:
+translate schinese mino_battle_loop_e593565c:
 
-#     # mn "No... more... cum..."
-#     mn ""
+    # mn "No... more... cum..."
+    mn "要……要射……"
 
-# translate schinese mino_battle_loop_d8052ded:
+translate schinese mino_battle_loop_d8052ded:
 
-#     # "The minotaur is squirming in reaction to your advance."
-#     ""
+    # "The minotaur is squirming in reaction to your advance."
+    "弥诺陶洛斯不安地扭动着身体。你听见他呼吸变得急促，还带着哼哼呻吟。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_aa7d256f:
+translate schinese mino_battle_loop_aa7d256f:
 
-#     # "You can already hear his rapid breathing and grunting. His lust is increased by [player_flirt]."
-#     ""
+    # "You can already hear his rapid breathing and grunting. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_9ce31d8e:
+translate schinese mino_battle_loop_9ce31d8e:
 
-#     # mn "Hnnngh... As..ass...?"
-#     mn ""
+    # mn "Hnnngh... As..ass...?"
+    mn "哞……大、大屁股……"
 
-# translate schinese mino_battle_loop_ada73862:
+translate schinese mino_battle_loop_ada73862:
 
-#     # "You can tell the minotaur is already playing with himself when his hand nudges against his erect cock, staring at your ass intently."
-#     ""
+    # "You can tell the minotaur is already playing with himself when his hand nudges against his erect cock, staring at your ass intently."
+    "弥诺陶洛斯紧盯你肥美的臀部，伸手套弄自己的勃起。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_877a56ed:
+translate schinese mino_battle_loop_877a56ed:
 
-#     # "His lust is increased by [player_flirt]."
-#     ""
+    # "His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_a2c49fea:
+translate schinese mino_battle_loop_a2c49fea:
 
-#     # mn "No..."
-#     mn ""
+    # mn "No..."
+    mn "不行……"
 
-# translate schinese mino_battle_loop_4570dce2:
+translate schinese mino_battle_loop_4570dce2:
 
-#     # "You can tell by the minotaur's fury, he now deals much more damage, as his lust increases."
-#     ""
+    # "You can tell by the minotaur's fury, he now deals much more damage, as his lust increases."
+    "弥诺陶洛斯因情欲渐长而愈发狂躁，接下来他的攻击将会更加猛烈。"
 
-# translate schinese mino_battle_loop_77197b5f:
+translate schinese mino_battle_loop_77197b5f:
 
-#     # "As much as you try, you cannot escape from the barrier behind you."
-#     ""
+    # "As much as you try, you cannot escape from the barrier behind you."
+    "你不管怎么攻击都无法破除入口的魔法屏障。"
 
-# translate schinese mino_battle_loop_a9c8dad7:
+translate schinese mino_battle_loop_a9c8dad7:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the minotaur."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the minotaur."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，将自己完全暴露给了这头巨兽。"
 
-# translate schinese mino_battle_loop_386704da:
+translate schinese mino_battle_loop_386704da:
 
-#     # mn "U-ughh...not a-again..."
-#     mn ""
+    # mn "U-ughh...not a-again..."
+    mn "呃啊啊啊……又、又要……"
 
-# translate schinese mino_battle_loop_644be555:
+translate schinese mino_battle_loop_644be555:
 
-#     # "The minotaur falls with a loud thud on the ground."
-#     ""
+    # "The minotaur falls with a loud thud on the ground."
+    "伴随一声巨响，这头猛兽轰然倒地，掀起漫天沙尘。"
 
-# translate schinese mino_battle_loop_92b59618:
+translate schinese mino_battle_loop_92b59618:
 
-#     # "The minotaur holds you in place with his right arm. You try to struggle free but it doesn't work."
-#     ""
+    # "The minotaur holds you in place with his right arm. You try to struggle free but it doesn't work."
+    "弥诺陶洛斯伸手一把抓起你，你拼命挣扎却无济于事。"
 
-# translate schinese mino_battle_loop_0a75f7de:
+translate schinese mino_battle_loop_0a75f7de:
 
-#     # "The minotaur swing his fist toward your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The minotaur swing his fist toward your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
+    "弥诺陶洛斯挥拳击中了你的胸膛，令你损失了 [enemy_damage] 点体力。"
 
-# translate schinese mino_battle_loop_48f7c770:
+translate schinese mino_battle_loop_48f7c770:
 
-#     # "The minotaur strike you down with his palm, you pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The minotaur strike you down with his palm, you pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
+    "弥诺陶洛斯一巴掌拍中了你，你在失去意识的几秒钟内损失了 [enemy_damage] 点体力。"
 
-# translate schinese mino_battle_loop_febb9f14:
+translate schinese mino_battle_loop_febb9f14:
 
-#     # "The minotaur swing his fist toward your direction, but you manage to dodge his blow."
-#     ""
+    # "The minotaur swing his fist toward your direction, but you manage to dodge his blow."
+    "弥诺陶洛斯挥拳向你袭来，但你成功躲过了这一击。"
 
-# translate schinese mino_battle_loop_ecd5dd80:
+translate schinese mino_battle_loop_ecd5dd80:
 
-#     # "The minotaur tries to strike you down with his palm, but he missed the attack just by inches."
-#     ""
+    # "The minotaur tries to strike you down with his palm, but he missed the attack just by inches."
+    "弥诺陶洛斯出手向你拍来，所幸只打中了离你几寸之外的虚空。"
 
-# translate schinese mino_battle_loop_b7a71d54:
+translate schinese mino_battle_loop_b7a71d54:
 
-#     # "The minotaur chants and sings a warsong, his damage seems to have been increased."
-#     ""
+    # "The minotaur chants and sings a warsong, his damage seems to have been increased."
+    "弥诺陶洛斯开始颂唱战歌，似乎让他的攻击力提升了不少。"
 
-# translate schinese mino_battle_loop_8d6713cf:
+translate schinese mino_battle_loop_8d6713cf:
 
-#     # "You can still feel yourself being wrapped around by the minotaur's strong arm, refusing to let you go."
-#     ""
+    # "You can still feel yourself being wrapped around by the minotaur's strong arm, refusing to let you go."
+    "弥诺陶洛斯屈臂紧紧扣住你，不肯松手。"
 
-# translate schinese mino_battle_loop_a8885461:
+translate schinese mino_battle_loop_a8885461:
 
-#     # "He buries your face into his warm and fuzzy chest, your lust has increased by 9."
-#     ""
+    # "He buries your face into his warm and fuzzy chest, your lust has increased by 9."
+    "你被迫挤在他又毛绒又暖和的胸膛中，享受之余性欲上升了 9 点。"
 
-# translate schinese mino_win_2d2ab173:
+translate schinese mino_win_2d2ab173:
 
-#     # "You have won against the minotaur."
-#     ""
+    # "You have won against the minotaur."
+    "孤战告捷，你掏出哈斯克尔要你带着的容器……"
 
-# translate schinese mino_win_595d80d7:
+translate schinese mino_win_595d80d7:
 
-#     # "You take out the vial that Haskell asked you to bring..."
-#     ""
+    # "You take out the vial that Haskell asked you to bring..."
+    pass
 
-# translate schinese mino_win_81a696e3:
+translate schinese mino_win_81a696e3:
 
-#     # "You retrieved a bottle of minotaur's essence."
-#     ""
+    # "You retrieved a bottle of minotaur's essence."
+    "你取得了一瓶弥诺陶洛斯精华。"
 
-# translate schinese mino_win_9a89312e:
+translate schinese mino_win_9a89312e:
 
-#     # "You also found [gold_drop] gold and [exp_drop] EXP."
-#     ""
+    # "You also found [gold_drop] gold and [exp_drop] EXP."
+    "还同时收获了 [gold_drop] 枚金币和 [exp_drop] 点经验。"
 
-# translate schinese mino_win_91f1d522:
+translate schinese mino_win_91f1d522:
 
-#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
-#     msg ""
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese mino_win_5d236da7:
+translate schinese mino_win_5d236da7:
 
-#     # "You leave the dungeon soon after."
-#     ""
+    # "You leave the dungeon soon after."
+    pass
 
-# translate schinese mino_lose_7240b865:
+translate schinese mino_lose_7240b865:
 
-#     # "You lost against the minotaur...he seems to be very satisfied with your slumped form."
-#     ""
+    # "You lost against the minotaur...he seems to be very satisfied with your slumped form."
+    "你输了……而你现在这副孱弱的模样正中巨兽下怀。"
+
+translate schinese strings:
+
+    old "Do you want to play the scene?"
+    new "你想重放情色场景吗？"

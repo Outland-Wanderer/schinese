@@ -1220,7 +1220,7 @@ translate schinese mossgolem_battle_loop_631c22d5:
 translate schinese mossgolem_battle_loop_60659c1c:
 
     # "You approach the golem before gently letting your hands wander inside the huge bush in his crotch area."
-    "接着你走近石魔像，伸手插入他胯下的那从苔藓轻轻揉搓。"
+    "接着你走近石魔像，伸手插入他胯下的那丛苔藓轻轻揉搓。"
 
 translate schinese mossgolem_battle_loop_b4cf221d:
 
@@ -1478,6 +1478,15 @@ translate schinese strings:
 
     old "[item_num] x Green Ointment"
     new "[item_num]绿色药膏"
+
+    old "HP: [ally.hp] / [ally.max_hp]"
+    new "体力：[ally.hp] / [ally.max_hp]"
+
+    old "MP: [ally.mp] / [ally.max_mp]"
+    new "魔力：[ally.mp] / [ally.max_mp]"
+
+    old "LUST: [ally.lust] / [ally.max_lust]"
+    new "性欲：[ally.lust] / [ally.max_lust]"
 
     old "Continue"
     new "继续"
